@@ -40,7 +40,7 @@ def funcion_ejemplo(param1, param2):
 
 def funcion_ejemplo2(param1, param2):
     # Esta función multiplica y divide
-    param1 = param1 * 2
+    param1 = param1 * 2 + (6/2) - 1
     param2 = param2 / param2
     
     return param1 * param2  # Retorna el producto
