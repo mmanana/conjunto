@@ -32,6 +32,8 @@ def funcion_ejemplo(param1, param2):
     param1 += 3
     param2 += 1
     
+    param2 *= 2
+    
     return param1 + param2
 
 
